@@ -1,0 +1,11 @@
+# Ignore build results
+**/Debug/*
+
+# Information about the status of projects
+*.sdf
+*.sln
+*.suo
+
+# System project MSBuild
+*.vcxproj
+*.vcxproj.filters
