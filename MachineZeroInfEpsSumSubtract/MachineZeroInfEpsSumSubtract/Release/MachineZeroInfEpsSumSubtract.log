@@ -1,0 +1,12 @@
+﻿Build started 07.11.2021 17:20:34.
+     1>Project "C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\MachineZeroInfEpsSumSubtract\MachineZeroInfEpsSumSubtract.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\Release\MachineZeroInfEpsSumSubtract.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\Release\MachineZeroInfEpsSumSubtract.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\Release\MachineZeroInfEpsSumSubtract.lib" /MACHINE:X86 /SAFESEH Release\EpsZeroSumDiffer.obj
+         Release\MachineInf.obj
+     1>MachineInf.obj : error LNK2005: _main already defined in EpsZeroSumDiffer.obj
+     1>C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\Release\MachineZeroInfEpsSumSubtract.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2012\Komyakov-\MachineZeroInfEpsSumSubtract\MachineZeroInfEpsSumSubtract\MachineZeroInfEpsSumSubtract.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.12
